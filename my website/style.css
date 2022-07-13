@@ -96,7 +96,7 @@ html{
 .banner .info-banner .social-icons{
 	display: flex;
 	flex-direction: column;
-	font-size: 3.0em;
+	font-size: 5.0em;
 }
 .banner .info-banner .social-icons a{
 	text-decoration:none;
